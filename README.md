@@ -18,3 +18,11 @@ USAGE: Go to your profile, press F12, choose Console and paste [XT script](https
 Note: You can get rate limited for loading too many tweets. I'm not sure about the current limits, so if tweets are not loading or something weird happens - refresh site and run script again.
 
 Note #2: I can see I have some posts left but they are not loading!!!!!! What do?!?! Read Note #2 in the DFMTU section.
+
+Current roadmap:
+
+- resolve any issues, more testing
+- create all in one script with a simple gui
+- rework XT script to work on any resolutions
+- automate script
+- more user friendly experience (idk, some onboarding with hello what is your username and auto navigate to profile or some shit)
